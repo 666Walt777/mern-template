@@ -1,0 +1,1 @@
+just a simple mern template to star a project fast.
